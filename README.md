@@ -1,4 +1,4 @@
-# Service-iBaozhong / 宝中服务
+# Service-Baozhong / 宝中服务
 
 ## TECHYES / 野生技协
 
@@ -6,7 +6,7 @@ View the cooool org https://github.com/Baoji-Middle-School/Organization-Applicat
 
 and our site https://hi.thisis.host !
 
-## Rollingone-Gallery / 一卷图库
+## Monoroll-Gallery / 一卷图库
 
 图床相册：https://img.xuewuzhibu.cn/album/h8p
 

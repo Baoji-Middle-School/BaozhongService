@@ -1,4 +1,4 @@
-# Service-Baozhong / 宝中服务
+# BaozhongService / 宝中服务
 
 ## TECHYES / 野生技协
 
@@ -6,15 +6,17 @@ View the cooool org https://github.com/Baoji-Middle-School/Organization-Applicat
 
 and our site https://hi.thisis.host !
 
-## Monoroll-Gallery / 一卷图库
+## MonorollGallery / 一卷图库
 
 图床相册：https://img.xuewuzhibu.cn/album/h8p
 
-## Senior-3-Timetable / 高三课表
+图床API：https://img.thisis.host
+
+## Senior3Timetable / 高三课表
 
 图床用户：https://img.xuewuzhibu.cn/bjzx
 
-## Exam-Clock / 22&23届考试时钟
+## ExamClock / 22&23届考试时钟
 
 项目文档：https://examined.thisis.host （正在开发）
 
@@ -22,6 +24,6 @@ and our site https://hi.thisis.host !
 
 源码仓库：https://github.com/ThisisHost/exam-clock
 
-## Grade-Analysis / 成绩分析模板
+## GradeAnalysis / 成绩分析模板
 
 文件下载：https://little-star.ys168.com

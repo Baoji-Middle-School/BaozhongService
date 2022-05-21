@@ -10,19 +10,21 @@ and our site https://hi.thisis.host !
 
 图床相册：https://img.xuewuzhibu.cn/album/h8p
 
-图床API：https://img.thisis.host
+图床API：https://img.thisis.host （开发中）
 
-## Senior3Timetable / 高三课表
+## ClassSchedule / 课表
 
-图床用户：https://img.xuewuzhibu.cn/bjzx
+高三：https://img.xuewuzhibu.cn/bjzx
+
+高二：https://img.xuewuzhibu.cn/album/0G4
 
 ## ExamClock / 22&23届考试时钟
 
-项目文档：https://examined.thisis.host （正在开发）
+项目文档：https://exam.js.cool （正在开发）
 
-项目Demo：https://exam.thisis.host （其实已经是生产环境了）
+项目Demo：https://exam.cooo.site （其实已经是生产环境了）
 
-源码仓库：https://github.com/ThisisHost/exam-clock
+源码仓库：https://github.com/L33Z22L11/ExamClock
 
 ## GradeAnalysis / 成绩分析模板
 

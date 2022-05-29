@@ -1,4 +1,4 @@
-# BaozhongService / 宝中服务
+# Baozhong-Service / 宝中服务
 
 ## TECHYES / 野生技协
 
@@ -6,13 +6,13 @@ View the cooool org https://github.com/Baoji-Middle-School/Organization-Applicat
 
 and our site https://hi.thisis.host !
 
-## MonorollGallery / 一卷图库
+## Monoroll-Gallery / 一卷图库
 
 图床相册：https://img.xuewuzhibu.cn/album/h8p
 
 图床API：https://img.thisis.host （开发中）
 
-## ClassSchedule / 课表
+## Class-Schedule / 课表
 
 高三：https://img.xuewuzhibu.cn/bjzx
 
@@ -26,6 +26,6 @@ and our site https://hi.thisis.host !
 
 源码仓库：https://github.com/L33Z22L11/ExamClock
 
-## GradeAnalysis / 成绩分析模板
+## Grade-Analysis / 成绩分析模板
 
 文件下载：https://little-star.ys168.com

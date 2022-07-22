@@ -8,9 +8,7 @@ and our site https://hi.thisis.host !
 
 ## Monoroll-Gallery / 一卷图库
 
-图床相册：https://img.xuewuzhibu.cn/album/h8p
-
-图床API：https://img.thisis.host （开发中）
+图床相册：https://imgtg.com/album/54wL
 
 ## Class-Schedule / 课表
 

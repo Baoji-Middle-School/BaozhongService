@@ -6,19 +6,17 @@ View the cooool org https://github.com/Baoji-Middle-School/Organization-Applicat
 
 and our site https://hi.thisis.host !
 
+## BaozhongNav / 宝中导航
+
+野生技协导航：https://thisis.host
+
 ## Monoroll-Gallery / 一卷图库
 
 图床相册：https://imgtg.com/album/54wL
 
-## Class-Schedule / 课表
-
-高三：https://img.xuewuzhibu.cn/bjzx
-
-高二：https://img.xuewuzhibu.cn/album/0G4
-
 ## ExamClock / 22&23届考试时钟
 
-项目文档：https://exam.js.cool （正在开发）
+项目文档：https://ace.cooo.site （正在开发）
 
 项目Demo：https://exam.cooo.site （其实已经是生产环境了）
 

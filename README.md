@@ -16,9 +16,9 @@ and our site https://hi.thisis.host !
 
 ## ExamClock / 22&23届考试时钟
 
-项目文档：https://ace.cooo.site （正在开发）
+项目存档：https://examined.thisis.host
 
-项目Demo：https://exam.cooo.site （其实已经是生产环境了）
+项目地址：https://exam.thisis.host
 
 源码仓库：https://github.com/L33Z22L11/ExamClock
 
